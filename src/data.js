@@ -30,9 +30,9 @@ export const hero = {
 
 export const about = {
   paragraphs: [
-    'I have been a full-stack developer at TlvTech since February 2024. Most of my work is on AutoDS, an e-commerce automation platform: React interfaces on one side, Node.js services on the other, and Python tooling where data has to move between them.',
-    'I got into engineering through the CyberPro bootcamp: 700+ hours of full-stack work with an acceptance ratio of 1:35. Before that I served almost four years in Oketz, the IDF\u2019s K9 unit, as a fighter and later as commander and instructor.',
-    'Outside of work I build tools I actually use: an encrypted OTP relay between my phone and browser, a Chrome extension that turns Zoom lectures into study summaries, and a calorie tracker my family logs meals in every day.',
+    'I am a full-stack developer at TlvTech, where I have been since February 2024. Most of my time goes into AutoDS, an e-commerce automation platform with thousands of daily users: React on the front end, Node.js services behind it, and Python tooling wherever data has to move between systems.',
+    'The path here was not the usual one. Before writing code I served almost four years in Oketz, the IDF\u2019s K9 unit: operational deployments first, then command and instruction. Engineering began with the CyberPro bootcamp, 700+ hours of full-stack training with an acceptance ratio of 1:35.',
+    'Outside of work I build tools I actually use: SyncOTP, which relays verification codes from my phone to my browser over an encrypted channel; Kitzur, a Chrome extension that turns Zoom lectures into structured study notes; and Calorie Arena, a calorie tracker my family logs meals in every day.',
   ],
   facts: [
     { k: 'currently', v: 'Full-stack developer at TlvTech' },
